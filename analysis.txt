@@ -1,0 +1,108 @@
+1880 1910 14 Henry Mary Margaret Charles Robert Alice George James Frank Anna Joseph William Elizabeth John
+1881 1911 13 Thomas Mary Margaret Charles George Edward James Frank Anna Joseph William Elizabeth John
+1882 1912 13 Thomas Mary Margaret Charles Robert George James Frank Anna Joseph William Elizabeth John
+1883 1913 13 Thomas Mary Margaret Charles Robert George James Frank Anna Joseph William Elizabeth John
+1884 1914 12 Mary Margaret Charles Robert George James Frank Anna Joseph William Elizabeth John
+1885 1915 13 Thomas Mary Margaret Charles Robert George James Frank Anna Joseph William Elizabeth John
+1886 1916 13 Thomas Mary Margaret Charles Robert George James Frank Anna Joseph William Elizabeth John
+1887 1917 13 Thomas Mary Margaret Charles George Edward James Frank Anna Joseph William Elizabeth John
+1888 1918 12 Mary Margaret Charles Robert George James Frank Anna Joseph William Elizabeth John
+1889 1919 13 Mary Margaret Charles Robert George Edward James Frank Anna Joseph William Elizabeth John
+1890 1920 12 Mary Margaret Charles Robert George James Frank Anna Joseph William Elizabeth John
+1891 1921 12 Mary Margaret Charles Robert Helen George James Frank Joseph William Elizabeth John
+1892 1922 13 Mary Margaret Charles Robert Helen Ruth George James Frank Joseph William Elizabeth John
+1893 1923 13 Mary Margaret Charles Robert Helen Ruth George Edward James Joseph William Elizabeth John
+1894 1924 11 Mary Margaret Charles Robert Helen Ruth George James Joseph William John
+1895 1925 13 Mary Margaret Charles Robert Helen Ruth George Edward James Joseph William Elizabeth John
+1896 1926 12 Mary Margaret Charles Robert Helen Ruth George Edward James Joseph William John
+1897 1927 12 Mary Margaret Charles Robert Helen Ruth George Edward James Joseph William John
+1898 1928 12 Mary Margaret Charles Robert Helen Ruth George Edward James Joseph William John
+1899 1929 12 Mary Margaret Charles Robert Helen Ruth George Edward James Joseph William John
+1900 1930 12 Mary Margaret Charles Robert Helen Ruth George Edward James Joseph William John
+1901 1931 10 Mary Margaret Charles Robert Helen George James Joseph William John
+1902 1932 10 Mary Margaret Charles Robert Helen George James Joseph William John
+1903 1933 11 Thomas Mary Margaret Charles Robert Helen George James Joseph William John
+1904 1934 11 Mary Margaret Charles Robert Helen George James Joseph William Dorothy John
+1905 1935 12 Thomas Mary Margaret Charles Robert Helen George James Joseph William Dorothy John
+1906 1936 10 Thomas Mary Margaret Charles Robert George James William Dorothy John
+1907 1937 9 Mary Margaret Charles Robert George James William Dorothy John
+1908 1938 9 Thomas Mary Margaret Charles Robert James William Dorothy John
+1909 1939 9 Thomas Mary Margaret Charles Robert James William Dorothy John
+1910 1940 6 Mary James Charles Robert William John
+1911 1941 7 Thomas Mary James Charles Robert William John
+1912 1942 7 Thomas Mary James Charles Robert William John
+1913 1943 7 Thomas Mary James Charles Robert William John
+1914 1944 6 Mary James Charles Robert William John
+1915 1945 7 Thomas Mary James Charles Robert William John
+1916 1946 7 Thomas Mary James Charles Robert William John
+1917 1947 7 Thomas Mary James Charles Robert William John
+1918 1948 7 Thomas Mary James Charles Robert William John
+1919 1949 7 Thomas Mary James Charles Robert William John
+1920 1950 7 Richard Mary James Charles Robert William John
+1921 1951 7 Richard Mary James Charles Robert William John
+1922 1952 7 Richard Mary James Charles Robert William John
+1923 1953 7 Richard Mary James Charles Robert William John
+1924 1954 7 Richard Mary James Charles Robert William John
+1925 1955 6 Richard Mary James Robert William John
+1926 1956 6 Richard Mary James Robert William John
+1927 1957 7 Barbara Richard Mary James Robert William John
+1928 1958 7 Barbara Richard Mary James Robert William John
+1929 1959 7 Patricia Richard Mary James Robert William John
+1930 1960 7 Patricia Richard Mary James Robert William John
+1931 1961 8 Patricia Richard Thomas Mary Robert James William John
+1932 1962 8 Patricia Richard Thomas Mary Robert James William John
+1933 1963 8 Patricia Richard Thomas Mary Robert James William John
+1934 1964 8 Patricia Richard Thomas Mary Robert James William John
+1935 1965 8 Patricia Richard Thomas Mary Robert James William John
+1936 1966 9 Patricia Richard Thomas Mary David Robert James William John
+1937 1967 7 Richard Mary James David Robert William John
+1938 1968 7 Richard Mary James David Robert William John
+1939 1969 7 Richard Mary James David Robert William John
+1940 1970 7 Richard Mary James David Robert William John
+1941 1971 6 Mary James David Robert William John
+1942 1972 5 James David Robert William John
+1943 1973 6 Michael James David Robert William John
+1944 1974 6 Michael James David Robert William John
+1945 1975 6 Michael James David Robert William John
+1946 1976 5 Michael James David Robert John
+1947 1977 5 Michael James David Robert John
+1948 1978 5 Michael James David Robert John
+1949 1979 5 Michael James David Robert John
+1950 1980 5 Michael James David Robert John
+1951 1981 5 Michael James David Robert John
+1952 1982 5 Michael James David Robert John
+1953 1983 5 Michael James David Robert John
+1954 1984 5 Michael James David Robert John
+1955 1985 5 Michael James David Robert John
+1956 1986 5 Michael James David Robert John
+1957 1987 4 Michael Robert James David
+1958 1988 4 Michael Robert James David
+1959 1989 4 Michael Robert James David
+1960 1990 3 Michael James David
+1961 1991 4 Michael James David John
+1962 1992 3 Michael James David
+1963 1993 1 Michael
+1964 1994 1 Michael
+1965 1995 1 Michael
+1966 1996 1 Michael
+1967 1997 2 Michael Christopher
+1968 1998 2 Michael Christopher
+1969 1999 2 Michael Christopher
+1970 2000 2 Michael Christopher
+1971 2001 3 Michael William Christopher
+1972 2002 3 Michael Matthew Christopher
+1973 2003 3 Michael Matthew Christopher
+1974 2004 4 William Michael Matthew Christopher
+1975 2005 3 Michael Matthew Christopher
+1976 2006 4 Daniel Michael Matthew Christopher
+1977 2007 3 Michael Matthew Christopher
+1978 2008 3 Michael Matthew Christopher
+1979 2009 3 Joshua Michael Christopher
+1980 2010 1 Michael
+1981 2011 2 Daniel Michael
+1982 2012 2 Michael Elizabeth
+1983 2013 3 Daniel Michael Elizabeth
+1984 2014 3 Daniel Michael James
+1985 2015 2 Michael James
+1986 2016 2 Michael James
+1987 2017 1 James
